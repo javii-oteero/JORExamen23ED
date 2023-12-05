@@ -37,7 +37,6 @@ public class MostrarNumeros {
 
     } 
   
-  <<<<<<< RESTDORES
     public static double restar(double a, double b) { 
 
         return a - b; 
