@@ -2,13 +2,12 @@ import java.util.Scanner;
 
 
 
-public class MostrarNumeros { 
+public class MostrarNumero { 
 
  
 
     public static void main(String[] args) { 
 
-        Scanner scanner = new Scanner(System.in); 
 
  
 
