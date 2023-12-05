@@ -1,0 +1,312 @@
+    1  git
+    2  te voy a matar
+    3  git
+    4  git init
+    5  git add 
+    6  git add 
+    7  ls
+    8  cd "OneDrive
+    9  ls
+   10  ls
+   11  saaa
+   12  git
+   13  git init
+   14  git add cd
+   15  git ls
+   16  ls
+   17  git add "OneDrive - Conselleria d'Educació"
+   18  ls
+   19  ls -la
+   20  cd OneDrive - Conselleria
+   21  cd OneDrive
+   22  ls
+   23  cd
+   24  ls
+   25  cd OneDrive
+   26  ls
+   27  cd Documentos
+   28  ls
+   29  ls
+   30  cd "OneDrive - Conselleria d'Educació"
+   31  ls
+   32  cd 1.CLASE/
+   33  ls
+   34  cd ENTORNOS\ DE\ DESARROLLO/
+   35  ls
+   36  cd PRÁCTICAS/
+   37  ls
+   38  cd pruebagit/
+   39  ls -la
+   40  git init
+   41  ls -ls
+   42  ls -la
+   43  cd C:\Users\dam_orj\OneDrive - Conselleria d'Educació\1.CLASE\ENTORNOS DE DESARROLLO\PRÁCTICAS\pruebagit
+   44  xv
+   45  ls
+   46  ls
+   47  cd "OneDrive - Conselleria d'Educació"
+   48  cd 
+   49  cd 1.CLASE\ENTORNOS DE DESARROLLO\PRÁCTICAS\pruebagit
+   50  ls
+   51  cd OneDrive - Conselleria d'Educació\1.CLASE\ENTORNOS DE DESARROLLO\PRÁCTICAS\pruebagit
+   52  cd
+   53  ls
+   54  li
+   55  asfadfsd
+   56  fa
+   57  fs
+   58  git
+   59  git init
+   60  cd
+   61  cd "OneDrive - Conselleria d'Educació"/
+   62  cd 1.CLASE/ENTORNOS\ DE\ DESARROLLO/PRÁCTICAS/pruebagit/
+   63  ls
+   64  ls -li
+   65  ls -la
+   66  git commit -m "Commit inicial"
+   67  git add -all
+   68  git add --all
+   69  git commit -m "commit inicial"
+   70  git commit -m "prueba inicial"
+   71  git add pruebatexto.txt 
+   72  git commit -m "prueba inicial"
+   73  git remote add origin https://github.com/javii-oteero/prueba1.git
+   74  git push -u origin master
+   75  git commit -m "segunda prugeba"
+   76  git add pruebatexto.txt 
+   77  git commit -m "segunda prueba"
+   78  git push -u commit master
+   79  git push -u origin master
+   80  git commit -m "tercera prueba"
+   81  git add pruebatexto.txt 
+   82  git add otrodoc.txt 
+   83  git commit -m "madremia q
+   84  "
+   85  git push -u origin master
+   86  ls
+   87  git add otrodoc.txt 
+   88  git commit -m "borrando 1"
+   89  git rm otrodoc.txt 
+   90  git commit -m "eliminao"
+   91  git status
+   92  git rm otrodoc.txt
+   93  git status
+   94  git add .
+   95  git commit "añado pa borrar"
+   96  git status
+   97  git add otrodoc.txt 
+   98  git commit -m "preias"
+   99  git push -u 
+  100  git statusç
+  101  git status
+  102  git add otrodoc.txt 
+  103  git commit -m "loañado"
+  104  rm otrodoc.txt 
+  105  git status
+  106  git rm otrodoc.txt 
+  107  git commit -m "eliminao"
+  108  git status
+  109  git
+  110  git restore otrodoc.txt
+  111  git init pr1git
+  112  git clone https://www.github.com/jquery/jquery.git~
+  113  git clone [200~https://github.com/jquery/jquery~
+  114  git clone https://github.com/jquery/jquery
+  115  ls
+  116  cd jquery/
+  117  git log
+  118  git init 
+  119  git init practica2git
+  120  cd practica2git/
+  121  touch contenido.txt
+  122  git status
+  123  git add contenido.txt 
+  124  git status
+  125  git commit -m "Primer commit"
+  126  git status
+  127  git add contenido.txt 
+  128  git commit -m "Segundo commit"
+  129  git commit --amend -m "Añadido la línea de MAC."
+  130  mkdir unidades
+  131  cd
+  132  ls
+  133  cd "OneDrive - Conselleria d'Educació"/
+  134  git branch
+  135  git branch Windows
+  136  git branch Ubuntu
+  137  git checkout Windows 
+  138  touch windows1.txt
+  139  git add windows1.txt 
+  140  git commit -m "Añadido fichero windows1"
+  141  git log
+  142  git checkout Ubuntu 
+  143  touch ubuntu1.txt
+  144  git add ubuntu1.txt 
+  145  git commit -m "Añadido fichero ubuntu1"
+  146  git push javii Windows 
+  147  git push windows1.txt Windows 
+  148  git remote add origin https://github.com/javii-oteero/practica2git.git
+  149  git status
+  150  git push -u origin Windows 
+  151  git push -u origin Ubuntu 
+  152  git branch
+  153  git checkout Windows 
+  154  ls
+  155  cd unidades/
+  156  touch windows2.txt
+  157  git add windows2.txt 
+  158  git commit -m "añadido windows2.txt"
+  159  git checkout Ubuntu 
+  160  git log
+  161  git checkout Windows
+  162  git checkout Ubuntu 
+  163  git checkout Windows 
+  164  git checkout master 
+  165  git log
+  166  git commit -m "cambiados los archivos a la carpeta"
+  167  git add ubuntu1.txt 
+  168  git add windows1.txt 
+  169  git commit -m "movidos los archivos a la carpeta"
+  170  git push -u 
+  171  git checkout Windows 
+  172  git push -u
+  173  git checkout ubu
+  174  git checkout Ubuntu
+  175  git push -u
+  176  git push -u 
+  177  git checkout Windows 
+  178  git checkout Ubuntu 
+  179  git checkout Windows 
+  180  git checkout Ubuntu 
+  181  git checkout Windows 
+  182  git init
+  183  mkdir unidades
+  184  git branch Windows
+  185  cd unidades
+  186  git branch Windows
+  187  cd ..
+  188  git add archivo1.txt 
+  189  git commit -m "commit de inicializacion"
+  190  cd unidades/
+  191  git branch Windows
+  192  git branch Ubuntu
+  193  git checkout Windows 
+  194  touch windows1.txt
+  195  git add windows1.txt 
+  196  git commit -m "Añadido fichero windows1"
+  197  git remote add origin https://github.com/javii-oteero/practica3git.git
+  198  git push -u origin Windows
+  199  git log
+  200  git checkout Ubuntu 
+  201  touch ubuntu1.txt
+  202  git add ubuntu1.txt 
+  203  git commit -m "Añadido fichero ubuntu1"
+  204  git push -u origin Ubuntu
+  205  git log
+  206  git checkout Windows 
+  207  touch windows2.txt
+  208  git add windows2.txt 
+  209  git commit -m "añadido windows2.txt"
+  210  git diff HEAD~1 HEAD
+  211  git add windows2.txt
+  212  git commit -m "Añadidas versiones a windows2.txt"
+  213  gitk windows2.txt
+  214  git log --follow -p windows2.txt
+  215  cd unidades
+  216  gitk windows2.txt
+  217  cd unidades
+  218  git checkout master 
+  219  git merge Windows 
+  220  git merge Ubuntu 
+  221  git checkout Windows 
+  222  cd unidades/
+  223  git checkout Ubuntu 
+  224  git checkout master
+  225  git branch -d Windows 
+  226  git merge Windows
+  227  cd ..
+  228  git merge Windows 
+  229  git branch -d Windows 
+  230  git branch -d Ubuntu 
+  231  git branch -D Windows 
+  232  git clone https://github.com/Burbuja999999999/laboratorioColaborar.git
+  233  git init
+  234  git remote add https://github.com/javii-oteero/JORExamen23ED.git
+  235  git remote add origin https://github.com/javii-oteero/JORExamen23ED.git
+  236  git commit -m "Commit de inicializacion"
+  237  git remote add origin https://github.com/javii-oteero/JORExamen23ED.git
+  238  touch MostrarNumeros.java
+  239  git add MostrarNumeros.java 
+  240  git commit -m "Añadido el main"
+  241  git push -u origin master
+  242  touch ExplicaCalculadora.txt
+  243  touch NoSubir.txt
+  244  git add NoSubir.txt 
+  245  git commit -m "Subido archivo NoSubir"
+  246  git push -u origin master
+  247  git rm --cached NoSubir.txt 
+  248  git status
+  249  git commit -m "Eliminado archivo NoSubir"
+  250  git push -u origin master
+  251  git status
+  252  git add ExplicaCalculadora.txt 
+  253  git commit -m "Subido archivo ExplicaCalculadora"
+  254  git push -u origin master
+  255  git log
+  256  git branch SUMADORES
+  257  git branch RESTDORES
+  258  git checkout SUMADORES
+  259  git add MostrarNumeros.java 
+  260  git commit -m "Añadidos sumadores al main"
+  261  git push -u origin SUMADORES
+  262  git checkout RESTDORES 
+  263  git add MostrarNumeros.java 
+  264  git commit -m "Añadidos restadores al main"
+  265  git push -u origin RESTDORES 
+  266  git diff SUMADORES RESTDORES 
+  267  git diff SUMADORES RESTDORES 
+  268  git add diferencia_ramas
+  269  git status
+  270  git rm --cached diferencia_ramas 
+  271  git status
+  272  git checkout master
+  273  ls
+  274  git add diferencia_ramas 
+  275  git commit -m "Añadido fichero diferencia de ramas"
+  276  git push -u origin master
+  277  git merge SUMADORES 
+  278  git merge RESTDORES 
+  279  git commit -m "fusionada rama sumadores"
+  280  git merge RESTDORES 
+  281  git commit -m "restadores juntada"
+  282  git add MostrarNumeros.java 
+  283  git commit -m "solucionado"
+  284  git status
+  285  git push -u origin master
+  286  git pull
+  287  del MostrarNumeros.java 
+  288  git commit -m "fusionado"
+  289  git commit -m "fusion"
+  290  git add MostrarNumeros.java 
+  291  git commit -m "merge total"
+  292  git branch -d SUMADORES 
+  293  git branch -d RESTDORES 
+  294  git pull
+  295  git clone https://github.com/javii-oteero/JORExamen23ED
+  296  ls
+  297  git clone https://github.com/javii-oteero/JORExamen23ED
+  298  ls
+  299  cd JORExamen23ED/
+  300  git add MostrarNumeros.java 
+  301  git commit -m "Main inutilizable"
+  302  git push -u origin master
+  303  git reset ad90118
+  304  git reset --hard 3bdcd64
+  305  git add Examen23EntornosJOR.md 
+  306  git commit -m "añadido el md"
+  307  git push -u origin master
+  308  git pull
+  309  git add Examen23EntornosJOR.md 
+  310  git commit -m "añadido md"
+  311  git push -u origin master
+  312  history > historial.txt
