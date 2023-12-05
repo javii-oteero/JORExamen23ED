@@ -1,0 +1,50 @@
+[1mdiff --git a/MostrarNumeros.java b/MostrarNumeros.java[m
+[1mindex 4ea9234..8791151 100644[m
+[1m--- a/MostrarNumeros.java[m
+[1m+++ b/MostrarNumeros.java[m
+[36m@@ -36,22 +36,38 @@[m [mpublic class MostrarNumeros {[m
+ [m
+     } [m
+ [m
+[31m-    public static double sumar(double a, double b) { [m
+[32m+[m[32m    public static double restar(double a, double b) {[m[41m [m
+ [m
+[31m-        return a + b; [m
+[32m+[m[32m        return a - b;[m[41m [m
+ [m
+     } [m
+[31m-    public static double multiplicar(double a, double b) { [m
+ [m
+[31m-        return a * b; [m
+[32m+[m[32mpublic static double dividir(double a, double b) {[m[41m [m
+[32m+[m
+[32m+[m[32m        if (b != 0) {[m[41m [m
+[32m+[m
+[32m+[m[32m            return a / b;[m[41m [m
+[32m+[m
+[32m+[m[32m        } else {[m[41m [m
+[32m+[m
+[32m+[m[32m            throw new IllegalArgumentException("No se puede dividir por cero");[m[41m [m
+[32m+[m
+[32m+[m[32m        }[m[41m [m
+ [m
+     } [m
+ [m
+[31m-    public static double potencia(double base, double exponente) { [m
+[32m+[m[32mpublic static double raizCuadrada(double a) {[m[41m [m
+ [m
+[31m-        return Math.pow(base, exponente); [m
+[32m+[m[32m        if (a >= 0) {[m[41m [m
+ [m
+[31m-    }  [m
+[32m+[m[32m            return Math.sqrt(a);[m[41m [m
+ [m
+[32m+[m[32m        } else {[m[41m [m
+[32m+[m
+[32m+[m[32m            throw new IllegalArgumentException("No se puede calcular la raíz cuadrada de un número negativo");[m[41m [m
+[32m+[m
+[32m+[m[32m        }[m[41m [m
+[32m+[m
+[32m+[m[32m    }[m[41m [m
+ [m
+ } [m

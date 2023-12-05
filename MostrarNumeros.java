@@ -20,6 +20,7 @@ public class MostrarNumeros {
 
         System.out.println("Ahora, ingresa el segundo número:"); 
 
+    
         double numero2 = scanner.nextDouble(); 
 
  
@@ -35,7 +36,8 @@ public class MostrarNumeros {
         scanner.close(); 
 
     } 
-
+  
+  <<<<<<< RESTDORES
     public static double restar(double a, double b) { 
 
         return a - b; 
@@ -54,7 +56,7 @@ public static double dividir(double a, double b) {
 
         } 
 
-    } 
+}
 
 public static double raizCuadrada(double a) { 
 
@@ -69,5 +71,20 @@ public static double raizCuadrada(double a) {
         } 
 
     } 
+    public static double sumar(double a, double b) { 
 
-} 
+        return a + b; 
+
+    } 
+    public static double multiplicar(double a, double b) { 
+
+        return a * b; 
+
+    } 
+
+    public static double potencia(double base, double exponente) { 
+
+        return Math.pow(base, exponente); 
+
+    } 
+
